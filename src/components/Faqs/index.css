@@ -1,0 +1,24 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  padding: 40px;
+}
+.container {
+  background-color: #ffffff;
+  min-height: 90vh;
+  border-radius: 10px;
+  padding: 30px;
+}
+.main-heading {
+  text-align: center;
+  color: #cb8805;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding: 30px;
+}
+.ul-faq {
+  list-style-type: none;
+  padding-left: 0px;
+  /* outline: auto; */
+}
